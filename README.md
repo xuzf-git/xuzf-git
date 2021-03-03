@@ -7,7 +7,7 @@ Welcome to visit my blog [:pencil: csdn](https://blog.csdn.net/qq_43586043)
 
 ---
 
-### :rainbow: Interest Areas
+## :rainbow: Interest Areas
 - :baby: Machine Learning
 - :book: Natural Language Processing
 - :mag_right: Knowledge Graph
@@ -17,12 +17,12 @@ Welcome to visit my blog [:pencil: csdn](https://blog.csdn.net/qq_43586043)
 
 ---
 
-### :hammer: Programming Languages
+## :hammer: Programming Languages
 <p align="center">
-<img src = 'https://raw.githubusercontent.com/xuzf-git/xuzf-git/master/images/c-original.svg' width='30'/> 
-<img src = 'https://raw.githubusercontent.com/xuzf-git/xuzf-git/master/images/cpp.svg' width='30'/>
-<img src = 'https://raw.githubusercontent.com/xuzf-git/xuzf-git/master/images/python.svg' width='30'/>
-<img src = 'https://raw.githubusercontent.com/xuzf-git/xuzf-git/master/images/git.svg' width='30'/>
+<img src = 'https://raw.githubusercontent.com/xuzf-git/xuzf-git/master/images/c-original.svg' width='40'/> 
+<img src = 'https://raw.githubusercontent.com/xuzf-git/xuzf-git/master/images/cpp.svg' width='40'/>
+<img src = 'https://raw.githubusercontent.com/xuzf-git/xuzf-git/master/images/python.svg' width='40'/>
+<img src = 'https://raw.githubusercontent.com/xuzf-git/xuzf-git/master/images/git.svg' width='40'/>
 </p>
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=xuzf-git&show_icons=true alt="xuzf-git" />  </p>
