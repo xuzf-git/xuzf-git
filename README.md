@@ -1,31 +1,28 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xuzf-git" alt="xuzf-git" /> </p>
+<h3 align="center">Hi 👋, I'm xuzf</h3>
+<h4 align="center">Student@BIT</h4>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuzf-git" alt="xuzf-git" /> </p> -->
 
-<h1 align="center">Hi 👋, I'm xuzf</h1>
-<h3 align="center">Junior Student@BIT</h3>
 
-Welcome to visit my blog [:pencil: csdn](https://blog.csdn.net/qq_43586043)
-
----
-
-## :rainbow: Interest Areas
-- :baby: Machine Learning
-- :book: Natural Language Processing
-- :mag_right: Knowledge Graph
+- :pencil: Welcome to visit my blog: [CSDN](https://blog.csdn.net/qq_43586043), [zhihu](https://www.zhihu.com/people/xiao-fei-28-72-38)
+- :mailbox: Email me at: <xuzhengfei-email@qq.com>
+- :rainbow: Interest Areas: :baby: *Machine Learning* :book: *Natural Language Processing* :mag_right: *Knowledge Graph*
+- :hammer: Programming Languages
 <!-- * Frontend and Backend Web Development -->
+  ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=Anaconda&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
-<p align="center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xuzf-git&layout=compact"> </p>
+- 📈Github status
 
----
+<a>
+  <img align ="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xuzf-git&langs_count=7&hide=html,css,JavaScript,Jupyter Notebook"/>
+</a>
+<a href="https://github.com/xuzf-git/xuzf-git">
+  <img align ="center" src = "https://github-readme-stats.vercel.app/api?username=xuzf-git&show_icons=true&line_height=27&count_private=true" />
+</a>
 
-## :hammer: Programming Languages
-<p align="center">
-<img src = 'https://raw.githubusercontent.com/xuzf-git/xuzf-git/master/images/c-original.svg' width='40'/> 
-<img src = 'https://raw.githubusercontent.com/xuzf-git/xuzf-git/master/images/cpp.svg' width='40'/>
-<img src = 'https://raw.githubusercontent.com/xuzf-git/xuzf-git/master/images/python.svg' width='40'/>
-<img src = 'https://raw.githubusercontent.com/xuzf-git/xuzf-git/master/images/git.svg' width='40'/>
-</p>
-
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=xuzf-git&show_icons=true alt="xuzf-git" />  </p>
 
 
 <!-- - ⚡ C++ / Python
