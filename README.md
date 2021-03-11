@@ -8,11 +8,13 @@
 - :rainbow: Interest Areas: :baby: *Machine Learning* :book: *Natural Language Processing* :mag_right: *Knowledge Graph*
 - :hammer: Programming Languages
 <!-- * Frontend and Backend Web Development -->
-  ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=Anaconda&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+<div align="center">
+  <img src="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=33ADFF">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=33ADFF">
+  <img src="https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=C&logoColor=white&color=33ADFF">
+  <img src="https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=Anaconda&logoColor=white&color=33ADFF">
+  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=33ADFF">
+</div>
 
 - 📈Github status
 
