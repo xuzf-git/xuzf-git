@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋, I'm xuzf</h3>
-<h4 align="center">Student@BIT</h4>
+<h2 align="center">Hi 👋, I'm xuzf</h3>
+<h3 align="center">Student@BIT</h4>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuzf-git" alt="xuzf-git" /> </p> -->
 
 
