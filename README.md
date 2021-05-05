@@ -19,7 +19,7 @@
 - 📈Github status
 
 <div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xuzf-git&langs_count=7&hide=html,css,JavaScript,Jupyter Notebook" height="200px"/><img src = "https://github-readme-stats.vercel.app/api?username=xuzf-git&show_icons=true&line_height=27&count_private=true" height="200px"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xuzf-git&langs_count=4&hide=html,css,JavaScript,Jupyter Notebook" height="200px"/><img src = "https://github-readme-stats.vercel.app/api?username=xuzf-git&show_icons=true&line_height=27&count_private=true" height="200px"/>
 </div>
 
 
