@@ -5,7 +5,7 @@
 
 - :pencil: Welcome to visit my blog: [CSDN](https://blog.csdn.net/qq_43586043), [zhihu](https://www.zhihu.com/people/xiao-fei-28-72-38)
 - :mailbox: Email me at: <xuzhengfei-email@qq.com>
-- :rainbow: Interest Areas: :spider_web: *Entity Linking* :mag_right: *Knowledge Graph* :book: *Natural Language Processing* 
+- :rainbow: Interest Areas: :spider_web: *Entity Linking* $\;$ :family: *Coreference Resolution*
 - :hammer: Programming Languages
 <!-- * Frontend and Backend Web Development -->
 <div align="center">
