@@ -5,9 +5,9 @@
 
 - :pencil: Welcome to visit my blog: [CSDN](https://blog.csdn.net/qq_43586043), [zhihu](https://www.zhihu.com/people/xiao-fei-28-72-38)
 - :mailbox: Email me at: <xuzhengfei-email@qq.com>
-- :rainbow: Interest Areas: :spider_web: *Entity Linking* $\;$ :family: *Coreference Resolution*
-- :hammer: Programming Languages
-<!-- * Frontend and Backend Web Development -->
+- :rainbow: Interest Areas: :spider_web: *Entity Linking* $\;$ :family: *NLP* $\;$ :framed_picture: *Multimodal Content Understanding*
+  
+<!-- :hammer: Programming Languages
 <div align="center">
   <img src="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=33ADFF">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=33ADFF">
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=Anaconda&logoColor=white&color=33ADFF">
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=33ADFF">
 </div>
-
+-->
 - 📈Github status
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
